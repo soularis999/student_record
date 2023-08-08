@@ -1,0 +1,16 @@
+.DS_Store
+.idea/
+*.iml
+*.impl
+.class
+build/
+out/
+bin/
+node_modules/
+*~
+.vertx/
+.gradle/
+package-lock.json
+
+.vscode/
+*.dSYM/
